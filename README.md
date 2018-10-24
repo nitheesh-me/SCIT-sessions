@@ -2,7 +2,7 @@
 This is for SCIT-sessions
 *24 October, 2018*
 
-## Introduction
+## Results
 Generally for random the propability of picking a number from an iteratble is same for every element.
 
 But in case of numpy.random.poisson() the propability of picking a number follows poission distribution
