@@ -29,4 +29,5 @@ for idx,ax in enumerate(a[1:]):
    ax.set_xlim(min,max)
 plt.tight_layout()
 plt.show()
-
+f.savefig('./ScreenShots/2_Normal_Distribution.png')
+plt.close(f)

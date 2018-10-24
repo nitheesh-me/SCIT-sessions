@@ -48,3 +48,5 @@ for idx,ax1 in enumerate(a[1:]):
       #ax.set_xlim(min,max)
 plt.tight_layout()
 plt.show()
+f.savefig('./ScreenShots/3_Means_of_both_distributions.png')
+plt.close(f)
